@@ -25,10 +25,10 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=m-prth&show_icons=true&theme=radical&line_height=27" alt="Parth's github stats"/>
 </a>
 <a href="https://github.com/m-prth">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-prth&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-prth&theme=radical" />
 </a>
-<a href="https://github.com/m-prth/Salary-Estimator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-prth&repo=Salary-Estimator&theme=dark" /> </a>  
+<a href="https://github.com/m-prth/Traffic-Sign-Classifier-Using-Tensorflow">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-prth&repo=Traffic-Sign-Classifier-Using-Tensorflow&theme=radical&show_owner=True" /> </a>  
   <div align="center">
 
 #### Show some ❤️ by starring some of the repositories!
