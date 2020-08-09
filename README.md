@@ -26,7 +26,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-prth&theme=radical" />
 </a>
 <a href="https://github.com/m-prth/Traffic-Sign-Classifier-Using-Tensorflow">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-prth&repo=Traffic-Sign-Classifier-Using-Tensorflow&theme=radical&show_owner=True" /> </a>  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-prth&repo=Traffic-Sign-Classifier&theme=radical&show_owner=True" /> </a>  
   <div align="center">
 
 #### Show some ❤️ by starring some of the repositories!
