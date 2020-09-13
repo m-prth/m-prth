@@ -1,10 +1,10 @@
-# Hey there ! I am Parth Mistry ! &emsp; <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">
+# Hey there! I am Parth Mistry!  &emsp; <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">
 - 👨‍💻  A Machine Learning Enthusiast, Competitive Coder and a Flutter Developer.
 - 🔭 I’m currently working on an **undisclosed project**.
 - 🌱 I’m currently learning **Deep Learning**.
 - 👯 I’m looking to collaborate on **MLOps**.
-- 💬 Ask me about any tech related stuff.
-- 😄 Pronouns: He/His
+- 💬 Ask me about any **tech related stuff**.
+- 😄 Pronouns: **He/His**.
 - 📄 [Get to know more about me](https://m-prth.github.io/)
 - ⚡ Fun fact: Think twice, code once.
 - 📫 How to reach me: <strong>(Click the badge to view my profiles !)</strong>  
