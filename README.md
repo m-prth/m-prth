@@ -1,4 +1,4 @@
-# Hey there! I am Parth Mistry!  &emsp; <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">
+# Hey there! I am Parth Mistry!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">
 - 👨‍💻  A **Machine Learning Enthusiast**, **Competitive Coder**, **Writer** and a **Flutter Developer**.
 - 🔭 I’m currently working on an **undisclosed project**.
 - 🌱 I’m currently learning **Deep Learning**.
