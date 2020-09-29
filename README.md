@@ -1,3 +1,4 @@
+![Alt Text](cover.png)
 # Hey there! I am Parth Mistry!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">
 - 👨‍💻  A **Machine Learning Enthusiast**, **Competitive Coder**, **Writer** and a **Flutter Developer**.
 - 🔭 I’m currently working on an **undisclosed project**.
