@@ -11,7 +11,7 @@
 - 📫 How to reach me: <strong>(Click the badge to view my profiles !)</strong>  
 
 <a href="mailto:imparthmistry@gmail.com" target="_blank" rel="nofollow me"><img src="https://img.shields.io/badge/imparthmistry-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="mailto:imparthmistry@gmail.com"></a> <a href="https://twitter.com/m_prth" target="_blank" rel="nofollow me"><img src="https://img.shields.io/badge/m__prth-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" ></a> <a  href="https://www.instagram.com/m_prth/" target="_blank" rel="nofollow me"><img src="https://img.shields.io/badge/@m__prth_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://www.linkedin.com/in/m-prth/" target="_blank" rel="nofollow me"><img src="https://img.shields.io/badge/m--prth-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> <a  href="https://medium.com/@m_prth" target="_blank" rel="nofollow me"> <img src="https://img.shields.io/badge/@m__prth-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"></a> 
-        
+      
 
 ---
 ### Tools I work upon : 🛠 
@@ -21,6 +21,7 @@
 <a href="https://github.com/m-prth">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=m-prth&show_icons=true&theme=radical&line_height=27" alt="Parth's github stats"/>
 </a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=m-prth&label=Views&color=blue&style=plastic" alt="m-prth" /> </p>  
 
 ---
 <div align="center">
