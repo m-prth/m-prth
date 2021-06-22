@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on **MLOps**.
 - 💬 Ask me about any **tech related stuff**.
 - 😄 Pronouns: **He/His**.
-- 📄 [Get to know more about me](http://m-prth.me/)
+- 📄 [Get to know more about me](http://m-prth.codes/)
 - ⚡ Fun fact: Think twice, code once.
 - 📫 How to reach me: <strong>(Click the badge to view my profiles!)</strong>  
 
