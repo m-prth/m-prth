@@ -28,15 +28,30 @@
 </div>
 
 ## 🏆GitHub Trophies
+
+<div align="center">
+
 ![](https://github-profile-trophy.vercel.app/?username=m-prth&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
+</div>
+
 ## ✍️Random Dev Quote
+
+<div align="center">
+
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
+</div> 
+  
 ## 😂Random Dev Meme
+  
+<div align="center">
+
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 [![](https://visitcount.itsvg.in/api?id=m-prth&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
 
 ---
 <div align="center">
