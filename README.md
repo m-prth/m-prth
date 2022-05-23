@@ -24,13 +24,12 @@
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=m-prth&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️Random Dev Quote
+## ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-### 😂Random Dev Meme
+## 😂Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
----
 [![](https://visitcount.itsvg.in/api?id=m-prth&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
