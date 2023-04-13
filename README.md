@@ -1,9 +1,9 @@
 ![Alt Text](cover.png)
 # Hey there! I am Parth Mistry!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px" height="40px">
 - 👨‍💻  A **Machine Learning Enthusiast**, **Competitive Coder**, **Writer** and a **Flutter Developer**.
-- 🔭 I’m currently working on a movie app.
-- 🌱 I’m currently learning **Deep Learning**.
-- 👯 I’m looking to collaborate on **MLOps**.
+- 🔭 I’m currently working on a thesis project.
+- 🌱 I’m currently learning **OpenGL and Service Oriented Architecture**.
+- 👯 I’m looking to collaborate on **NLP Projects**.
 - 💬 Ask me about any **tech related stuff**.
 - 😄 Pronouns: **He/His**.
 - 📄 [Get to know more about me](http://m-prth.codes/)
