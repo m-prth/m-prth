@@ -6,8 +6,7 @@
 - 👯 I’m looking to collaborate on **NLP Projects**.
 - 💬 Ask me about any **tech related stuff**.
 - 😄 Pronouns: **He/His**.
-- 💡 [Get to know more about me](http://m-prth.github.io/)
-- 📃 [My Resume](resume.pdf)
+- 💡 [Get to know more about me](http://parthmistry.com/)
 - ⚡ Fun fact: Think twice, code once.
 - 📫 How to reach me: <strong>(Click the badge to view my profiles!)</strong>  
 
